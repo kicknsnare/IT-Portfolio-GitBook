@@ -40,3 +40,5 @@
 * [Tickets](notes/tickets.md)
 * [Practice For interviews](notes/practice-for-interviews/README.md)
   * [1](notes/practice-for-interviews/1.md)
+  * [2](notes/practice-for-interviews/2.md)
+* [Windows Installation Notes](notes/windows-installation-notes.md)
