@@ -37,6 +37,7 @@
 * [First Notes](notes/first-notes.md)
 * [Active Directory](notes/active-directory/README.md)
   * [How to add a computer to a domain?](notes/active-directory/how-to-add-a-computer-to-a-domain.md)
+  * [Adding a new person to Active Directory](notes/active-directory/adding-a-new-person-to-active-directory.md)
 * [Tickets](notes/tickets.md)
 * [Practice For interviews](notes/practice-for-interviews/README.md)
   * [1](notes/practice-for-interviews/1.md)
