@@ -31,3 +31,19 @@ How to add a computer to a domain?
 * Open Network & Internet Setting (Internet Logo)
 * Change Adapter Options -> Ethernet->Properties
 * IPv4 -> Properties -> Use the following DNS settings
+
+
+
+```powershell
+#See if im logged in the domain
+whoami /fqdn
+```
+
+
+
+## Administrative Tools
+
+* Apps and features
+* Optional Features
+* Add features
+* RSAT Active Directory
