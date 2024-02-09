@@ -47,3 +47,20 @@ whoami /fqdn
 * Optional Features
 * Add features
 * RSAT Active Directory
+
+
+
+## RDP Basic Troubleshooting
+
+* if it is not getting ping we should check the firewall and desactivate it&#x20;
+* If the first one didn't work you might check System -> System Info -> Remote Settings -> Allow remote connection
+
+
+
+## Reset Password
+
+* Administrative Tools
+* Active Directory Users and Computers
+* Search Username From ENTIRE DIRECTORY
+* Right Click -> Reset Password
+* Server Manager -> Tools -> Group Policies Management -> Default Domain Policy -> Settings (Check the password policy)
