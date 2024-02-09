@@ -42,4 +42,5 @@
 * [Practice For interviews](notes/practice-for-interviews/README.md)
   * [1](notes/practice-for-interviews/1.md)
   * [2](notes/practice-for-interviews/2.md)
+  * [3](notes/practice-for-interviews/3.md)
 * [Windows Installation Notes](notes/windows-installation-notes.md)
