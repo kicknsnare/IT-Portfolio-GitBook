@@ -13,6 +13,14 @@
   * [3](notes/practice-for-interviews/3.md)
 * [Windows Installation Notes](notes/windows-installation-notes.md)
 
-## Modern IT Support Training
+## Modern IT Support Training Theory
 
-* [Page 1](modern-it-support-training/page-1.md)
+* [What is a Network](modern-it-support-training-theory/what-is-a-network.md)
+* [What makes a Network](modern-it-support-training-theory/what-makes-a-network/README.md)
+  * [What makes a Network (hardware)](modern-it-support-training-theory/what-makes-a-network/what-makes-a-network-hardware.md)
+  * [What makes a Network (software)](modern-it-support-training-theory/what-makes-a-network/what-makes-a-network-software.md)
+  * [OSI Layers](modern-it-support-training-theory/what-makes-a-network/osi-layers.md)
+
+## Modern IT Support Training Practical
+
+* [Page 1](modern-it-support-training-practical/page-1.md)
