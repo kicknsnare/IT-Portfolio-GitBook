@@ -20,7 +20,17 @@
   * [What makes a Network (hardware)](modern-it-support-training-theory/what-makes-a-network/what-makes-a-network-hardware.md)
   * [What makes a Network (software)](modern-it-support-training-theory/what-makes-a-network/what-makes-a-network-software.md)
   * [OSI Layers](modern-it-support-training-theory/what-makes-a-network/osi-layers.md)
+  * [IP addresses](modern-it-support-training-theory/what-makes-a-network/ip-addresses.md)
+* [🖥 Chapter 1 Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/README.md)
+  * [Mobile Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/mobile-operating-systems.md)
+  * [Windows Operating System](modern-it-support-training-theory/chapter-1-operating-systems/windows-operating-system.md)
+  * [OS Boot And Installation Methods](modern-it-support-training-theory/chapter-1-operating-systems/os-boot-and-installation-methods.md)
+  * [Partitioning And File Systems](modern-it-support-training-theory/chapter-1-operating-systems/partitioning-and-file-systems.md)
 
 ## Modern IT Support Training Practical
 
-* [Page 1](modern-it-support-training-practical/page-1.md)
+* [Operating Systems](modern-it-support-training-practical/operating-systems.md)
+
+## Projects
+
+* [Page 1](projects/page-1.md)
