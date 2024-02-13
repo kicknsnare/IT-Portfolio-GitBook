@@ -26,6 +26,9 @@
   * [Windows Operating System](modern-it-support-training-theory/chapter-1-operating-systems/windows-operating-system.md)
   * [OS Boot And Installation Methods](modern-it-support-training-theory/chapter-1-operating-systems/os-boot-and-installation-methods.md)
   * [Partitioning And File Systems](modern-it-support-training-theory/chapter-1-operating-systems/partitioning-and-file-systems.md)
+  * [Post installation Tasks](modern-it-support-training-theory/chapter-1-operating-systems/post-installation-tasks.md)
+  * [Windows Client Networking Configuration](modern-it-support-training-theory/chapter-1-operating-systems/windows-client-networking-configuration.md)
+  * [Command Line Tools](modern-it-support-training-theory/chapter-1-operating-systems/command-line-tools.md)
 
 ## Modern IT Support Training Practical
 
