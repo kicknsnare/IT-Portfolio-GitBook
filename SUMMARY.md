@@ -29,6 +29,11 @@
   * [Post installation Tasks](modern-it-support-training-theory/chapter-1-operating-systems/post-installation-tasks.md)
   * [Windows Client Networking Configuration](modern-it-support-training-theory/chapter-1-operating-systems/windows-client-networking-configuration.md)
   * [Command Line Tools](modern-it-support-training-theory/chapter-1-operating-systems/command-line-tools.md)
+  * [Microsoft System Utilities](modern-it-support-training-theory/chapter-1-operating-systems/microsoft-system-utilities.md)
+  * [Desktop Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/desktop-operating-systems.md)
+  * [Linux Commands](modern-it-support-training-theory/chapter-1-operating-systems/linux-commands.md)
+  * [Using Microsoft Control Panel Utilities](modern-it-support-training-theory/chapter-1-operating-systems/using-microsoft-control-panel-utilities.md)
+  * [Workgroup vs Domain Knowledge before Project](modern-it-support-training-theory/chapter-1-operating-systems/workgroup-vs-domain-knowledge-before-project.md)
 
 ## Modern IT Support Training Practical
 
