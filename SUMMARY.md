@@ -41,4 +41,5 @@
 
 ## Projects
 
-* [Page 1](projects/page-1.md)
+* [Project 1](projects/project-1/README.md)
+  * [Quizz](projects/project-1/quizz.md)
