@@ -1,17 +1,19 @@
 # Table of contents
 
-## Notes
+## Notes From Udemy Bootcamp
 
-* [First Notes](README.md)
-* [Active Directory](notes/active-directory/README.md)
-  * [How to add a computer to a domain?](notes/active-directory/how-to-add-a-computer-to-a-domain.md)
-  * [Adding a new person to Active Directory](notes/active-directory/adding-a-new-person-to-active-directory.md)
-* [Tickets](notes/tickets.md)
-* [Practice For interviews](notes/practice-for-interviews/README.md)
-  * [1](notes/practice-for-interviews/1.md)
-  * [2](notes/practice-for-interviews/2.md)
-  * [3](notes/practice-for-interviews/3.md)
-* [Windows Installation Notes](notes/windows-installation-notes.md)
+* [📡 Server and Client](README.md)
+  * [First Notes](notes-from-udemy-bootcamp/server-and-client/first-notes.md)
+  * [Active Directory](notes-from-udemy-bootcamp/server-and-client/active-directory/README.md)
+    * [How to add a computer to a domain?](notes-from-udemy-bootcamp/server-and-client/active-directory/how-to-add-a-computer-to-a-domain.md)
+    * [Adding a new person to Active Directory](notes-from-udemy-bootcamp/server-and-client/active-directory/adding-a-new-person-to-active-directory.md)
+    * [Adding Helpdesk account](notes-from-udemy-bootcamp/server-and-client/active-directory/adding-helpdesk-account.md)
+  * [Practice For interviews](notes-from-udemy-bootcamp/server-and-client/practice-for-interviews/README.md)
+    * [1](notes-from-udemy-bootcamp/server-and-client/practice-for-interviews/1.md)
+    * [2](notes-from-udemy-bootcamp/server-and-client/practice-for-interviews/2.md)
+    * [3](notes-from-udemy-bootcamp/server-and-client/practice-for-interviews/3.md)
+  * [Windows Installation Notes](notes-from-udemy-bootcamp/server-and-client/windows-installation-notes.md)
+  * [Local Computer Management and AD RSAT Tool](notes-from-udemy-bootcamp/server-and-client/local-computer-management-and-ad-rsat-tool.md)
 
 ## Modern IT Support Training Theory
 
@@ -34,10 +36,9 @@
   * [Linux Commands](modern-it-support-training-theory/chapter-1-operating-systems/linux-commands.md)
   * [Using Microsoft Control Panel Utilities](modern-it-support-training-theory/chapter-1-operating-systems/using-microsoft-control-panel-utilities.md)
   * [Workgroup vs Domain Knowledge before Project](modern-it-support-training-theory/chapter-1-operating-systems/workgroup-vs-domain-knowledge-before-project.md)
-
-## Modern IT Support Training Practical
-
-* [Operating Systems](modern-it-support-training-practical/operating-systems.md)
+* [🔐 Security](modern-it-support-training-theory/security/README.md)
+  * [Implementing Physical Security Measures](modern-it-support-training-theory/security/implementing-physical-security-measures.md)
+  * [Logical User Security Concepts](modern-it-support-training-theory/security/logical-user-security-concepts.md)
 
 ## Projects
 
