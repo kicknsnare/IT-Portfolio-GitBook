@@ -14,6 +14,11 @@
     * [3](notes-from-udemy-bootcamp/server-and-client/practice-for-interviews/3.md)
   * [Windows Installation Notes](notes-from-udemy-bootcamp/server-and-client/windows-installation-notes.md)
   * [Local Computer Management and AD RSAT Tool](notes-from-udemy-bootcamp/server-and-client/local-computer-management-and-ad-rsat-tool.md)
+* [Tickets](notes-from-udemy-bootcamp/tickets/README.md)
+  * [Notes](notes-from-udemy-bootcamp/tickets/notes.md)
+* [Active Directory and Group Policy Training](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/README.md)
+  * [Group Policy](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/group-policy.md)
+  * [Tools](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/tools.md)
 
 ## Modern IT Support Training Theory
 
@@ -44,3 +49,9 @@
 
 * [Project 1](projects/project-1/README.md)
   * [Quizz](projects/project-1/quizz.md)
+
+## Refer Me!
+
+* [Commands](refer-me/commands.md)
+* [Tickets](refer-me/tickets.md)
+* [Stuck?](refer-me/stuck.md)
