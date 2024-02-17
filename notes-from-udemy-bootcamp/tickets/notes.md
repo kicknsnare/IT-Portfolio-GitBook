@@ -4,7 +4,7 @@
 
 ## New hire
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * To asign an office go to -> properties
 * To assign a title go to -> properties -> Organization
@@ -25,7 +25,7 @@ It is the same as creating a new user.&#x20;
 
 ## Account Lockout
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

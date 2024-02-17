@@ -44,6 +44,8 @@
 * [🔐 Security](modern-it-support-training-theory/security/README.md)
   * [Implementing Physical Security Measures](modern-it-support-training-theory/security/implementing-physical-security-measures.md)
   * [Logical User Security Concepts](modern-it-support-training-theory/security/logical-user-security-concepts.md)
+  * [Logical Device And Network Security Concepts](modern-it-support-training-theory/security/logical-device-and-network-security-concepts.md)
+  * [Malware Types](modern-it-support-training-theory/security/malware-types.md)
 
 ## Projects
 
