@@ -46,6 +46,7 @@
   * [Logical User Security Concepts](modern-it-support-training-theory/security/logical-user-security-concepts.md)
   * [Logical Device And Network Security Concepts](modern-it-support-training-theory/security/logical-device-and-network-security-concepts.md)
   * [Malware Types](modern-it-support-training-theory/security/malware-types.md)
+  * [Social Engineering Techniques And Exploits](modern-it-support-training-theory/security/social-engineering-techniques-and-exploits.md)
 
 ## Projects
 

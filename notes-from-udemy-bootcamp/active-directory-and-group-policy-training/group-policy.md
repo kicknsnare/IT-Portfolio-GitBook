@@ -43,3 +43,31 @@ Properties -> Sharing -> Advanced Sharing -> Permissions -> add -> Type Domain U
 It is important to remember or take into consideration the network path
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Deployment with MSI
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Add Security Filtering to a Computer
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+```powershell
+#go back to the computer and enter this on cmd
+gpupdate /all
+#type Y for yes and when you restart the computer the software should be ther
+
+```
+
