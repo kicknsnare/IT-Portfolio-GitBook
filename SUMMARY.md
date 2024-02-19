@@ -50,14 +50,20 @@
   * [Social Engineering Techniques And Exploits](modern-it-support-training-theory/security/social-engineering-techniques-and-exploits.md)
   * [Wireless SOHO Security](modern-it-support-training-theory/security/wireless-soho-security.md)
   * [Microsoft OS Security – Permissions](modern-it-support-training-theory/security/microsoft-os-security-permissions.md)
+  * [Microsoft OS Security Features](modern-it-support-training-theory/security/microsoft-os-security-features.md)
+  * [Workstation Security Best Practices](modern-it-support-training-theory/security/workstation-security-best-practices.md)
+  * [Mobile Device Security Solutions](modern-it-support-training-theory/security/mobile-device-security-solutions.md)
+  * [Securing Web Browsers](modern-it-support-training-theory/security/securing-web-browsers.md)
 
 ## Projects
 
 * [Project 1](projects/project-1/README.md)
   * [Quizz](projects/project-1/quizz.md)
+* [Project 2](projects/project-2.md)
 
 ## Refer Me!
 
 * [Commands](refer-me/commands.md)
-* [Tickets](refer-me/tickets.md)
+* [Tickets](refer-me/tickets/README.md)
+  * [Training](refer-me/tickets/training.md)
 * [Stuck?](refer-me/stuck.md)
