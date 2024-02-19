@@ -19,6 +19,7 @@
 * [Active Directory and Group Policy Training](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/README.md)
   * [Group Policy](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/group-policy.md)
   * [Tools](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/tools.md)
+* [Inventory, Asset Management Systems](notes-from-udemy-bootcamp/inventory-asset-management-systems.md)
 
 ## Modern IT Support Training Theory
 
@@ -47,6 +48,8 @@
   * [Logical Device And Network Security Concepts](modern-it-support-training-theory/security/logical-device-and-network-security-concepts.md)
   * [Malware Types](modern-it-support-training-theory/security/malware-types.md)
   * [Social Engineering Techniques And Exploits](modern-it-support-training-theory/security/social-engineering-techniques-and-exploits.md)
+  * [Wireless SOHO Security](modern-it-support-training-theory/security/wireless-soho-security.md)
+  * [Microsoft OS Security – Permissions](modern-it-support-training-theory/security/microsoft-os-security-permissions.md)
 
 ## Projects
 
