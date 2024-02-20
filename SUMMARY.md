@@ -54,6 +54,8 @@
   * [Workstation Security Best Practices](modern-it-support-training-theory/security/workstation-security-best-practices.md)
   * [Mobile Device Security Solutions](modern-it-support-training-theory/security/mobile-device-security-solutions.md)
   * [Securing Web Browsers](modern-it-support-training-theory/security/securing-web-browsers.md)
+* [🛠 Software Troubleshooting](modern-it-support-training-theory/software-troubleshooting/README.md)
+  * [Windows OS Issues](modern-it-support-training-theory/software-troubleshooting/windows-os-issues.md)
 
 ## Projects
 
