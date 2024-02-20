@@ -6,7 +6,7 @@ There are 2 mediums to send or receive data
 
 * Wired= RJ45(ethernet) and fiber
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 * Wireless
 

@@ -56,6 +56,9 @@
   * [Securing Web Browsers](modern-it-support-training-theory/security/securing-web-browsers.md)
 * [🛠 Software Troubleshooting](modern-it-support-training-theory/software-troubleshooting/README.md)
   * [Windows OS Issues](modern-it-support-training-theory/software-troubleshooting/windows-os-issues.md)
+  * [PC security issues](modern-it-support-training-theory/software-troubleshooting/pc-security-issues.md)
+  * [Malware Removal Best Practices](modern-it-support-training-theory/software-troubleshooting/malware-removal-best-practices.md)
+  * [Mobile OS And Application Issues](modern-it-support-training-theory/software-troubleshooting/mobile-os-and-application-issues.md)
 
 ## Projects
 
