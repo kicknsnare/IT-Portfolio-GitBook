@@ -63,6 +63,7 @@
 * [🔢 Operational Procedures](modern-it-support-training-theory/operational-procedures/README.md)
   * [Organizational Documentation](modern-it-support-training-theory/operational-procedures/organizational-documentation.md)
   * [Basic Change Management Best Practices](modern-it-support-training-theory/operational-procedures/basic-change-management-best-practices.md)
+  * [Workstation Backup And Recovery Method](modern-it-support-training-theory/operational-procedures/workstation-backup-and-recovery-method.md)
 
 ## Projects
 
