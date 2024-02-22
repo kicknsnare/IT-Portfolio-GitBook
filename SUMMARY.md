@@ -62,6 +62,7 @@
   * [Mobile OS And Application Security Issues](modern-it-support-training-theory/software-troubleshooting/mobile-os-and-application-security-issues.md)
 * [🔢 Operational Procedures](modern-it-support-training-theory/operational-procedures/README.md)
   * [Organizational Documentation](modern-it-support-training-theory/operational-procedures/organizational-documentation.md)
+  * [Basic Change Management Best Practices](modern-it-support-training-theory/operational-procedures/basic-change-management-best-practices.md)
 
 ## Projects
 
