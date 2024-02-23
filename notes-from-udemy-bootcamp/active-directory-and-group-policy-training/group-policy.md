@@ -28,6 +28,8 @@ gpresults /h c:\gpresults.htlm
 
 
 
+## Software Deployment
+
 ## Group Policy for Software Installation
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>

@@ -64,12 +64,14 @@
   * [Organizational Documentation](modern-it-support-training-theory/operational-procedures/organizational-documentation.md)
   * [Basic Change Management Best Practices](modern-it-support-training-theory/operational-procedures/basic-change-management-best-practices.md)
   * [Workstation Backup And Recovery Method](modern-it-support-training-theory/operational-procedures/workstation-backup-and-recovery-method.md)
+  * [Equipment And Personal Safety Procedures](modern-it-support-training-theory/operational-procedures/equipment-and-personal-safety-procedures.md)
 
 ## Projects
 
-* [Project 1](projects/project-1/README.md)
-  * [Quizz](projects/project-1/quizz.md)
-* [Project 2](projects/project-2.md)
+* [Project 1 Windows Installation Virtual Machine](projects/project-1-windows-installation-virtual-machine/README.md)
+  * [Quizz](projects/project-1-windows-installation-virtual-machine/quizz.md)
+* [Project 2 AD, Group Policies...](projects/project-2-ad-group-policies....md)
+* [Project 3 Backups](projects/project-3-backups.md)
 
 ## Refer Me!
 
