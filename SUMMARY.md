@@ -20,6 +20,8 @@
   * [Group Policy](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/group-policy.md)
   * [Tools](notes-from-udemy-bootcamp/active-directory-and-group-policy-training/tools.md)
 * [Inventory, Asset Management Systems](notes-from-udemy-bootcamp/inventory-asset-management-systems.md)
+* [Ticketing Systems](notes-from-udemy-bootcamp/ticketing-systems/README.md)
+  * [Hands-on](notes-from-udemy-bootcamp/ticketing-systems/hands-on.md)
 
 ## Modern IT Support Training Theory
 
@@ -29,7 +31,7 @@
   * [What makes a Network (software)](modern-it-support-training-theory/what-makes-a-network/what-makes-a-network-software.md)
   * [OSI Layers](modern-it-support-training-theory/what-makes-a-network/osi-layers.md)
   * [IP addresses](modern-it-support-training-theory/what-makes-a-network/ip-addresses.md)
-* [🖥 Chapter 1 Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/README.md)
+* [🖥️ Chapter 1 Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/README.md)
   * [Mobile Operating Systems](modern-it-support-training-theory/chapter-1-operating-systems/mobile-operating-systems.md)
   * [Windows Operating System](modern-it-support-training-theory/chapter-1-operating-systems/windows-operating-system.md)
   * [OS Boot And Installation Methods](modern-it-support-training-theory/chapter-1-operating-systems/os-boot-and-installation-methods.md)
@@ -54,7 +56,7 @@
   * [Workstation Security Best Practices](modern-it-support-training-theory/security/workstation-security-best-practices.md)
   * [Mobile Device Security Solutions](modern-it-support-training-theory/security/mobile-device-security-solutions.md)
   * [Securing Web Browsers](modern-it-support-training-theory/security/securing-web-browsers.md)
-* [🛠 Software Troubleshooting](modern-it-support-training-theory/software-troubleshooting/README.md)
+* [🛠️ Software Troubleshooting](modern-it-support-training-theory/software-troubleshooting/README.md)
   * [Windows OS Issues](modern-it-support-training-theory/software-troubleshooting/windows-os-issues.md)
   * [PC security issues](modern-it-support-training-theory/software-troubleshooting/pc-security-issues.md)
   * [Malware Removal Best Practices](modern-it-support-training-theory/software-troubleshooting/malware-removal-best-practices.md)
@@ -65,6 +67,7 @@
   * [Basic Change Management Best Practices](modern-it-support-training-theory/operational-procedures/basic-change-management-best-practices.md)
   * [Workstation Backup And Recovery Method](modern-it-support-training-theory/operational-procedures/workstation-backup-and-recovery-method.md)
   * [Equipment And Personal Safety Procedures](modern-it-support-training-theory/operational-procedures/equipment-and-personal-safety-procedures.md)
+  * [Environmental Variables And Controls](modern-it-support-training-theory/operational-procedures/environmental-variables-and-controls.md)
 
 ## Projects
 
