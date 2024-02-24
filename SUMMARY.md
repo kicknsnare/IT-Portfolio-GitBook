@@ -68,6 +68,10 @@
   * [Workstation Backup And Recovery Method](modern-it-support-training-theory/operational-procedures/workstation-backup-and-recovery-method.md)
   * [Equipment And Personal Safety Procedures](modern-it-support-training-theory/operational-procedures/equipment-and-personal-safety-procedures.md)
   * [Environmental Variables And Controls](modern-it-support-training-theory/operational-procedures/environmental-variables-and-controls.md)
+  * [Privacy And Licensing Concepts](modern-it-support-training-theory/operational-procedures/privacy-and-licensing-concepts.md)
+  * [Incident Response Policies and Procedures](modern-it-support-training-theory/operational-procedures/incident-response-policies-and-procedures.md)
+  * [Introduction To Basic Scripting Techniques](modern-it-support-training-theory/operational-procedures/introduction-to-basic-scripting-techniques.md)
+  * [Implementing Remote Access Technologies](modern-it-support-training-theory/operational-procedures/implementing-remote-access-technologies.md)
 
 ## Projects
 
