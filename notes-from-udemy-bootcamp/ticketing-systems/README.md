@@ -8,7 +8,7 @@ CLOSE
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,13 +22,13 @@ There's always going to be a severity assigned to the ticket
 
 Ask for what each group deal with. It is important to get experience on that because it is going to help you a lot in your job
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Category of the ticket
 
 As well as delegating tickets it is important to get some knowledge on each category that the company has for the tickets
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Closing the ticket
 

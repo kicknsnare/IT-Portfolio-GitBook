@@ -4,13 +4,13 @@
 
 ## Technician Side
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Problems
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>You can edit the tickets and change the priority of them</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>You can edit the tickets and change the priority of them</p></figcaption></figure>
 
 When you start working on a ticket it is good to edit the ticket and if it was not assigned to somebody assign it to yourself and change the status to in progress
 
