@@ -87,3 +87,7 @@
 * [Tickets](refer-me/tickets/README.md)
   * [Training](refer-me/tickets/training.md)
 * [Stuck?](refer-me/stuck.md)
+
+## LAB Content
+
+* [Identifying different Windows Operating System](lab-content/identifying-different-windows-operating-system.md)
