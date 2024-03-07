@@ -91,3 +91,4 @@
 ## LAB Content
 
 * [Identifying different Windows Operating System](lab-content/identifying-different-windows-operating-system.md)
+* [Managing a Windows Device using the Command Line Interface](lab-content/managing-a-windows-device-using-the-command-line-interface.md)
