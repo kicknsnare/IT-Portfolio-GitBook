@@ -9,6 +9,7 @@
 cls
 #Navigation Commands
 dir
+dir /ah -> show all hidden files and directories
 cd <path>
 ################## Storage Commands ##############
 
